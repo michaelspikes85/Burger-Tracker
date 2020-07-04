@@ -41,4 +41,4 @@ N/A
 
 ## License
 
-https://img.shields.io/github/license/michaelspikes85/Burger-Tracker?style=plastic
+<img src=https://img.shields.io/github/license/michaelspikes85/Burger-Tracker?style=plastic>
